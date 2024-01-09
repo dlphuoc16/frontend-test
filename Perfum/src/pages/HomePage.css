@@ -1,0 +1,44 @@
+.support-button {
+    background-color: red;
+    color: white;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    border: none;
+    padding: 10px;
+    border-radius: 50%;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.question-form {
+    position: fixed;
+    bottom: 70px;
+    right: 20px;
+    background-color: white;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+.question-form div {
+    margin-bottom: 10px;
+}
+
+.question-form label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.question-form input {
+    width: 100%;
+    padding: 5px;
+}
+
+.question-form button {
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+}

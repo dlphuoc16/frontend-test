@@ -1,0 +1,18 @@
+.free {
+    display: flex;
+}
+
+.free_1 {
+    width: 280px;
+}
+
+.free_2 {
+    width: 500px;
+}
+
+.free_1,
+.free_2 {
+
+    padding: 10px;
+    box-sizing: border-box;
+}
